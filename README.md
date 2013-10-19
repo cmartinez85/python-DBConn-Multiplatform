@@ -15,4 +15,4 @@ ImportError: libclntsh.so.11.1: cannot open shared object file: No such file or 
 
 Fix: create oracle.conf file with the correct path inside.
 
-
+More: http://www.programmers-pain.de/2011/07/10/howto-install-cx-oracle-on-centos-5-x/
